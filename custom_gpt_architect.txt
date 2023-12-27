@@ -30,7 +30,7 @@ Ensure the resulting project specification prompt contains:
  4. An 'Additional API Documentation' section for lengthy API details that exceed the prompt limit.
  5. If there are any links in the user-specified project, look those up for usage examples, sample inputs, and outputs of external APIs.
  6. If external APIs need to be used for the implementation, search the internet for examples, sample inputs, and outputs of external APIs.
- 7. Require a README.md file with:
+ 7. A README.md file with:
      A. Summary
      B. Installation instructions
      C. Documentation
